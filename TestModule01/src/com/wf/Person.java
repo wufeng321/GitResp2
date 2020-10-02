@@ -5,4 +5,5 @@ public class Person {
     private String name;
     private Double height;
     private Double weight;
+    private String sex;
 }
